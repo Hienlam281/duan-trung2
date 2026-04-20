@@ -1,0 +1,18 @@
+body {
+  background: rgb(232, 232, 238);
+  font-family: Arial;
+  margin: 0%;
+}
+header {
+  background: rgb(12, 12, 12);
+  color: aliceblue;
+  padding: 10px;
+}
+.card {
+  background: rgb(110, 106, 106);
+  font-family: Arial;
+  font-size: small;
+  padding: 2px;
+  margin: 20px;
+  border-radius: 10px;
+}
